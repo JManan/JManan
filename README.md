@@ -88,12 +88,10 @@ I enjoy understanding how systems work under the hood, solving challenging engin
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JManan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JManan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-
-<p align="center">
+<p>
+  <img 
+    width="50%"
+    src="https://streak-stats.demolab.com?user=JManan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
   <a href="https://github.com/JManan">
     <img
       src="https://github-readme-stats.vercel.app/api?username=JManan&show_icons=true&theme=tokyonight&hide_border=true"
