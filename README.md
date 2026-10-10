@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+backend+systems+that+scale;Exploring+AI+and+agentic+workflows;Debugging+the+hard+problems;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Developer coding animation" />
-</p>
-
-
 
 <p align="center">
   <a href="https://github.com/JManan">
@@ -69,7 +64,10 @@ I enjoy understanding how systems work under the hood, solving challenging engin
   </tr>
 </table>
 
+
 **Also familiar with:** REST APIs · OAuth 2.0 · Webhooks · AWS Lambda · S3 · SQS · API Gateway · CloudWatch · Playwright · CI/CD · Stripe · Razorpay · Debugging · Performance Optimization
+
+
 
 ## 💼 Experience
 
